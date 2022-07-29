@@ -1,0 +1,2 @@
+Vin12@gmail.com, b'$2b$12$8XtdngRyfL/RyXX09lFTAOJ8t7UDV1xGyxOQzHZbh0mSaAkKkKKIG'
+Pav12@gm.com, b'$2b$12$2G7wZ17aGdCQWgsDxhZbzOrGRtn.dEnl9Bc6/jtewzJb1CxAQ4FgS'
